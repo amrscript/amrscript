@@ -8,11 +8,6 @@ I'm a Developer on a quest to unravel the mysteries of decentralized technology.
   - **JavaScript** – Breathing life into web3 magic.
   - **Python** – For all my data wrangling needs! 🐍
 
-- **Blockchain Realms**: 
-  - **Ethereum** – The land of possibilities.
-  - **Polkadot** – Exploring cross-chain adventures.
-  - **Binance Smart Chain** – Speed and efficiency in one package.
-
 - **Frameworks & Tools**: 
   - **Truffle & Hardhat** – My trusty companions for contract deployment.
   - **IPFS** – For decentralized storage solutions.
